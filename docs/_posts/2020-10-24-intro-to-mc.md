@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Introduction to Monte Carlo Methods"
+date:   2020-10-24 01:07:00 -0400
+categories: MC notes
+---
 This note is part of my learning notes of Monte Carlo methods. It is also a test note. Further modifications will be made later.
 
 ## Some understanding about sampling
