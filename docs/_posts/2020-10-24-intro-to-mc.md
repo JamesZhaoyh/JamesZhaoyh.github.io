@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: draftpost
 title:  "Introduction to Monte Carlo Methods"
 date:   2020-10-24 01:07:00 -0400
 categories: MC notes
